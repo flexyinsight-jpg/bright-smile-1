@@ -1,0 +1,6 @@
+{
+  "name": "Bright Smile Dental Clinic",
+  "description": "Modern dental care clinic web application featuring 3D animated hero, service overview, appointment booking, patient reviews, and emergency consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
